@@ -1,8 +1,11 @@
-# n-400-application-for-naturalization
+# N-400-application-for-naturalization
 
 - Please come to: **650 CAPITOL MALL Room 2-220 SACRAMENTO**, CA 95814 USA
 - On (Date): Tuesday, **September 16, 2025 08:50AM** - Weijie Xi
 - On (Date): Tuesday, **September 20, 2025 08:00AM** - Rongjun Geng
+
+- [USCIS - N-400, Application for Naturalization - weijie](https://drive.google.com/file/d/1zjJSMRi048TYKGwkXheimRmbcRJrB-7a/view?usp=sharing)
+- [Application N-400-weijie](https://drive.google.com/file/d/1ko2rlEEVIDb2r2imldGk7E-8EE0msroO/view?usp=sharing)
 
 ### What’s on the Citizenship Test
 **The naturalization test has two main parts:**
