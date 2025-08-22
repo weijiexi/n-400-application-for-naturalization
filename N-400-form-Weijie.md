@@ -87,11 +87,11 @@
 **3.How many times have you been married?**
 - 1
 
-**Your Current Marriage**
-**4 a. Current spouse**
+### **Your Current Marriage**
+
+**4a. Current spouse**
 
 **4b. What is your current spouse's date of birth?**
-- 
 
 **4c. When did you marry your current spouse?**
 
