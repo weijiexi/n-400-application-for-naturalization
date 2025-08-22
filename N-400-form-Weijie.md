@@ -42,13 +42,13 @@
 
 **Social Security Update**
 
-**12 a. Do you want the Social Security Administration (SSA) to issue you an original or replacement Social Security card and update your immigration status with the SSA if and when you are naturalized?**
+**12a. Do you want the Social Security Administration (SSA) to issue you an original or replacement Social Security card and update your immigration status with the SSA if and when you are naturalized?**
 - No
 
-**12 b. What is your U.S. Social Security number (SSN)?**
+**12b. What is your U.S. Social Security number (SSN)?**
 - 385-99-9979
 
-**12 c. Do you authorize disclosure of information from this application and USCIS systems to the SSA as required for the purpose of assigning you an SSN, issuing you an original or replacement Social Security card, and updating your immigration status with the SSA?**
+**12c. Do you authorize disclosure of information from this application and USCIS systems to the SSA as required for the purpose of assigning you an SSN, issuing you an original or replacement Social Security card, and updating your immigration status with the SSA?**
 - (blank)
 
 ## **Part 3. Biographic Information**
@@ -90,16 +90,16 @@
 **Your Current Marriage**
 **4 a. Current spouse**
 
-**4 b. What is your current spouse's date of birth?**
+**4b. What is your current spouse's date of birth?**
 - 
 
-**4 c. When did you marry your current spouse?**
+**4c. When did you marry your current spouse?**
 
-**4 d. What is current spouse's current physical address?**
+**4d. What is current spouse's current physical address?**
 
-**5 a. When did your current spouse become a U.S. citizen?**
+**5a. When did your current spouse become a U.S. citizen?**
 
-**5 b. On what date did your current spouse become a U.S. citizen?**
+**5b. On what date did your current spouse become a U.S. citizen?**
 
 **6.What is your current spouse's A-Number?**
 
